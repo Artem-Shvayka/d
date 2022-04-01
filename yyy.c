@@ -1,15 +1,16 @@
 /*
- * main.c
+ * yyy.c
  *
- *  Created on: 30 мар. 2022 г.
+ *  Created on: 31 мар. 2022 г.
  *      Author: aptem
  */
 #include <stdio.h>
 int main (){
-	printf ("Hello World\n");
+	printf ("Helllllo World\n");
 	int input;
 	scanf("%d", &input);
-	printf ("%d\n", input);
+	printf ("%05d\n", input*2);
+
 	return 0;
 }
 

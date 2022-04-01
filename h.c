@@ -1,7 +1,7 @@
 /*
- * main.c
+ * h.c
  *
- *  Created on: 30 мар. 2022 г.
+ *  Created on: 31 мар. 2022 г.
  *      Author: aptem
  */
 #include <stdio.h>
